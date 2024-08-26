@@ -20,5 +20,5 @@ Teaching Associate, UCLA, 2019-2020
 
 Teaching Associate, UCLA, 2019-2020
 - Statistical Methods for Policy Analysis I & II
-- MPP Summer Math Camp 
+- MPP Summer Math Camp (x2)
 
