@@ -1,0 +1,8 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+---
+
+
+Here is my [CV.](/cv_hernandez.pdf)
