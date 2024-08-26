@@ -4,7 +4,7 @@ title:  "Research"
 permalink: /research/
 ---
 
-My research intersects Labor Economics and Public Finance, with a focus on policies that target groups otherwise excluded from different systems. 
+My research intersects Labor Economics and Public Finance. My work centers low-wage workers and immigrants.  
 
 <b> Work in Progress <b> 
 
