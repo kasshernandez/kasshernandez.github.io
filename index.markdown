@@ -6,7 +6,7 @@ layout: default
 ---
 
 {:refdef: style="text-align: center;"}
-![Image]({{ site.baseurl }}/images/headshot.jpg){:width="60%"}
+![Image]({{ site.baseurl }}/images/headshot.jpg){:width="50%"}
 {: refdef}
 
 Thanks for stopping by! I am a Ph.D. Candidate in [Economics at UC Berkeley](https://www.econ.berkeley.edu/), interested in labor economics and public finance, with a focus on low-wage workers and immigrants. Feel free to learn more [about me](\about\) and my [research](\research\). 
