@@ -13,8 +13,8 @@ Instructor, [PPIA Junior Summer Institute](https://gspp.berkeley.edu/programs/un
 
 Teaching Associate, UCLA, 2019-2020
 - Using Data Science to Learn about Society 
-- Information, Evidence, and Persuasion
-- Research & Internships in Food Studies
+- Information, Evidence, and Persuasion 
+- Research & Internships in Food Studies (x2)
 
 <b> <u> Graduate
 
