@@ -4,7 +4,7 @@ title:  "Service"
 permalink: /service/
 ---
 
-I am passionate about improving access, representation, and inclusivity throughout all levels of the Economics pipeline. As a Latina, daughter of Mexican immigrants, and first-generation college student, I have greatly benefited from intentional mentorship, leadership, and advocacy. At UC Berkeley, I have been heavily engaged through student-led initiatives and I aim to do the same throughout my career. 
+I am committed to improving access, representation, and inclusivity throughout all levels of the Economics pipeline. As a Latina, daughter of Mexican immigrants, and first-generation college student, I have greatly benefited from intentional mentorship, leadership, and advocacy. At UC Berkeley, I have been heavily engaged through student-led initiatives and I aim to do the same throughout my career. 
 
 <u> 2024-2025 <u>
 - Leader, DEI Faculty Recruitment, [Economists for Equity at Berkeley](https://berkeleyeconomistsforequity.weebly.com/) (BEE)
