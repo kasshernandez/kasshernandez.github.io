@@ -9,13 +9,13 @@ I am committed to improving access, representation, and inclusivity throughout a
 <u> 2024-2025 <u>
 - Leader, DEI Faculty Recruitment, [Economists for Equity at Berkeley](https://berkeleyeconomistsforequity.weebly.com/) (BEE)
 - Graduate Mentor, [Social Sciences Research Pathways](https://irle.berkeley.edu/student-opportunities/social-science-research-pathways/)
-- Graduate Mentor, [GiGS](https://grad.berkeley.edu/graduate-diversity/berkeley-undergrads/getting-into-graduate-school/)
+- Graduate Mentor, [Getting Into Graduate School](https://grad.berkeley.edu/graduate-diversity/berkeley-undergrads/getting-into-graduate-school/) (GIGS)
 
 <u> 2023-2024 <u>
 - Co-President, BEE 
   - <i> Recipient of the [2024 Outstanding Graduate Student Organization Award](https://studentaffairs.berkeley.edu/news-messages/2024-oski-student-leadership-awards/) <i>
 - Reviewer, BEE Graduate Student Admission Review Committee
-- Graduate Mentor, [Getting Into Graduate School](https://grad.berkeley.edu/graduate-diversity/berkeley-undergrads/getting-into-graduate-school/) (GIGS)
+- Graduate Mentor, [GiGS](https://grad.berkeley.edu/graduate-diversity/berkeley-undergrads/getting-into-graduate-school/)
 - Invited Speaker: MPP & Beyond, [PPIA Junior Summer Institute](https://gspp.berkeley.edu/programs/undergraduate-programs/%20ppia-junior-summer-institute)
 
 <u> 2022-2023 <u>
