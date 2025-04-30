@@ -9,6 +9,7 @@ I am committed to improving access, representation, and inclusivity throughout a
 <u> 2024-2025 <u>
 - Leader, DEI Faculty Recruitment, [Economists for Equity at Berkeley](https://berkeleyeconomistsforequity.weebly.com/) (BEE)
 - Graduate Mentor, [Social Sciences Research Pathways](https://irle.berkeley.edu/student-opportunities/social-science-research-pathways/)
+- Graduate Mentor, [GiGS](https://grad.berkeley.edu/graduate-diversity/berkeley-undergrads/getting-into-graduate-school/)
 
 <u> 2023-2024 <u>
 - Co-President, BEE 
