@@ -6,7 +6,7 @@ layout: default
 ---
 
 {:refdef: style="text-align: center;"}
-![Image]({{ site.baseurl }}/images/headshot.jpg){:width="70%"}
+![Image]({{ site.baseurl }}/images/headshot.jpg){:width="75%"}
 {: refdef}
 
 Thanks for stopping by! I am a Ph.D. Candidate in [Economics at UC Berkeley](https://www.econ.berkeley.edu/). Trained in labor economics and public finance, I study how public policy exacerbates or mitigates inequality, particularly for low-wage workers and immigrants. Feel free to learn more [about me](\about\) and my [research](\research\). 
