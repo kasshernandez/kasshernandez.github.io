@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Ph.D. Candidate in Economics at UC Berkeley. I study how policies shape access to higher education, entry into the labor market, and conditions within it. I use quasi-experimental approaches and administrative datasets to study populations typically difficult to observe: undocumented students and workers experiencing wage theft. Ultimately, my work speaks to ongoing policy debates around access, inequality, and labor market enforcement.
+I am a Ph.D. Candidate in Economics at UC Berkeley. I study how policies shape access to higher education, entry into the labor market, and conditions within it. I use quasi-experimental approaches and administrative datasets. Ultimately, my work speaks to policy debates around access, inequality, and labor market enforcement.
 
 I am passionate about making data and research accessible to a diverse audience. As a Graduate Student Researcher with the [Low-wage Work](https://laborcenter.berkeley.edu/low-wage-work/) (LWW) team at the [UC Berkeley Labor Center](https://laborcenter.berkeley.edu/), I co-built the ["Low-wage Work in California Data Explorer,"](https://laborcenter.berkeley.edu/low-wage-work-in-california-data-explorer-2026/) provided technical support to partner organizations, and coauthored a series of reports, factsheets, and blog posts on job quality and pay in low-wage occupations, with special attention to who holds these jobs. Before joining LWW, I supported work on social safety net program usage and college student success through the [California Policy Lab](https://capolicylab.org/).
 

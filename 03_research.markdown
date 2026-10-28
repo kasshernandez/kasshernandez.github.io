@@ -4,7 +4,7 @@ title:  "Research"
 permalink: /research/
 ---
 
-I study how policies shape access to higher education, entry into the labor market, and conditions within it. I use quasi-experimental approaches and administrative datasets to study populations typically difficult to observe: undocumented students and workers experiencing wage theft. Ultimately, my work speaks to ongoing policy debates around access, inequality, and labor market enforcement.
+I study how policies shape access to higher education, entry into the labor market, and conditions within it. I use quasi-experimental approaches and administrative datasets. Ultimately, my work speaks to ongoing debates around access, inequality, and labor market enforcement.
 
 <b> Working Papers <b> 
 
