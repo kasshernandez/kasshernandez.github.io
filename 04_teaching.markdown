@@ -4,7 +4,7 @@ title:  "Teaching"
 permalink: /teaching/
 ---
 
-I have led and collaborated with others on various teaching teams at UC Berkeley and UCLA, for both undergraduate- and graduate-level courses. As an instructor, I am passionate about student learning; my pedagogy strives to build confidence and clarity within the classroom—especially for students traditionally underrepresented in Economics, Policy, and related fields. 
+I have led and collaborated with others on various teaching teams at UC Berkeley and UCLA, for both undergraduate- and graduate-level courses. My pedagogy strives to build confidence and clarity within the classroom—especially for students traditionally underrepresented in Economics, Policy, and related fields. 
 
 I am happy to provide teaching evaluations upon request.  
 
