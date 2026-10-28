@@ -5,4 +5,4 @@ permalink: /cv/
 ---
 
 
-Here is my [CV.](/cv_hernandez.pdf)
+Here is my [CV.](/cv_hernandez.pdf#page=1&view=Fit&zoom=page-fit)

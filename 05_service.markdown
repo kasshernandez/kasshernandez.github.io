@@ -6,16 +6,24 @@ permalink: /service/
 
 I am committed to improving access, representation, and inclusivity throughout all levels of the Economics pipeline. As a Latina, daughter of Mexican immigrants, and first-generation college student, I have greatly benefited from intentional mentorship, leadership, and advocacy. At UC Berkeley, I have been heavily engaged through student-led initiatives and I aim to do the same throughout my career. 
 
+<u> 2026-2027 <u>
+- Graduate Research Mentor, [Social Sciences Research Pathways (SSRP)](https://irle.berkeley.edu/student-opportunities/social-science-research-pathways/)
+- Invited Panelist, [Undergraduate Women in Economics at Berkeley (UWEB)](https://uweb-berkeley.base44.app/) 
+
+<u> 2025-2026 <u>
+- Graduate Mentor, [Getting Into Graduate School (GiGS)](https://grad.berkeley.edu/graduate-diversity/berkeley-undergrads/getting-into-graduate-school/)
+- Graduate Student Admission Review Committee, [Economists for Equity at Berkeley (BEE)](https://berkeleyeconomistsforequity.weebly.com/)
+
 <u> 2024-2025 <u>
-- Leader, DEI Faculty Recruitment, [Economists for Equity at Berkeley](https://berkeleyeconomistsforequity.weebly.com/) (BEE)
-- Graduate Mentor, [Social Sciences Research Pathways](https://irle.berkeley.edu/student-opportunities/social-science-research-pathways/)
-- Graduate Mentor, [Getting Into Graduate School](https://grad.berkeley.edu/graduate-diversity/berkeley-undergrads/getting-into-graduate-school/) (GIGS)
+- Leader, DEI Faculty Recruitment, BEE
+- Graduate Research Mentor, SSRP
+- Graduate Mentor, GiGS
 
 <u> 2023-2024 <u>
 - Co-President, BEE 
   - <i> Recipient of the [2024 Outstanding Graduate Student Organization Award](https://studentaffairs.berkeley.edu/news-messages/2024-oski-student-leadership-awards/) <i>
 - Reviewer, BEE Graduate Student Admission Review Committee
-- Graduate Mentor, [GiGS](https://grad.berkeley.edu/graduate-diversity/berkeley-undergrads/getting-into-graduate-school/)
+- Graduate Mentor, GiGS
 - Invited Speaker: MPP & Beyond, [PPIA Junior Summer Institute](https://gspp.berkeley.edu/programs/undergraduate-programs/%20ppia-junior-summer-institute)
 
 <u> 2022-2023 <u>
