@@ -10,7 +10,7 @@ I am passionate about making data and research accessible to a diverse audience.
 
 I received an M.P.P. and a B.A. in Philosophy with a minor in Labor & Workplace Studies, both from UCLA, and am an alumna of the [American Economic Association Summer Program](https://www.aeaweb.org/about-aea/committees/AEASP) (AEASP). 
 
-I am a proud Californian, daughter of Mexican immigrants, and first-generation college student. In my free time, I immerse myself in nature—mostly running, cycling, camping, and backpacking (often with my dog! &#x1F43E;). I completed my first marathon in March 2024 in Napa, inspired by my childhood growing up on a vineyard in the Santa Monica mountains. 
+I am a proud Californian, daughter of Mexican immigrants in agriculture and domestic work, and first-generation college student. In my free time, I immerse myself in nature—mostly running, cycling, camping, and backpacking (often with my dog! &#x1F43E;). I completed my first marathon in March 2024 in Napa, inspired by my childhood growing up on a vineyard in the Santa Monica mountains. 
 
 ![mountains]({{ site.baseurl }}/images/mountains.jpg){:width="100%"}
 
