@@ -15,7 +15,7 @@ I am a proud Californian, daughter of Mexican immigrants, and first-generation c
 ![mountains]({{ site.baseurl }}/images/mountains.jpg){:width="100%"}
 
 <div style="display:flex; gap:8px;">
-  <img src="{{ site.baseurl }}/images/dog_backpack.jpg" alt="dog with backpack" style="flex:1; min-width:0; aspect-ratio:3/4; object-fit:cover;">
+  <img src="{{ site.baseurl }}/images/dog_backpack.JPG" alt="dog with backpack" style="flex:1; min-width:0; aspect-ratio:3/4; object-fit:cover;">
   <img src="{{ site.baseurl }}/images/dog_run.jpg" alt="dog running" style="flex:1; min-width:0; aspect-ratio:3/4; object-fit:cover;">
-  <img src="{{ site.baseurl }}/images/dog_sunset.jpg" alt="dog at sunset" style="flex:1; min-width:0; aspect-ratio:3/4; object-fit:cover;">
+  <img src="{{ site.baseurl }}/images/dog_sunset.JPG" alt="dog at sunset" style="flex:1; min-width:0; aspect-ratio:3/4; object-fit:cover;">
 </div>
