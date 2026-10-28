@@ -11,6 +11,8 @@ layout: default
 
 Thanks for stopping by! I am a Ph.D. Candidate in [Economics at UC Berkeley](https://www.econ.berkeley.edu/). 
 
+My work intersects labor economics and public finance, with an emphasis on low-wage workers and immigrants. I use quasi-experimental approaches and restricted data from various California agencies and the US Census Bureau to study how policies shape access to higher education, entry into the labor market, and conditions within it.
+
 Feel free to learn more [about me](\about\) and my [research](\research\). 
 
 
